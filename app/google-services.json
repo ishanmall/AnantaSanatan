@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729158422970",
+    "project_id": "sanatan-gyan-sagar-6a35a",
+    "storage_bucket": "sanatan-gyan-sagar-6a35a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729158422970:android:85f8e7ae24cd9f46b90d83",
+        "android_client_info": {
+          "package_name": "com.sanatangyansagar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpit4laEupldPFfA08YUINrFXcy3Eslzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
